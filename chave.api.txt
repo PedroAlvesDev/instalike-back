@@ -1,1 +1,6 @@
 AIzaSyC385MDGnV0G1ma__L3F1zT9k_jtGJvCBU
+
+pedrodev
+uCkb80UfWHCWMvqt
+
+mongodb+srv://pedrodev:uCkb80UfWHCWMvqt@cluster0.ize5w.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
